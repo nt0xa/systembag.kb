@@ -117,3 +117,8 @@ KEYS
     WPKY = 44389e92846f2c7bf1294be2fcaf88153638a881197590df03e0303b1af6ac47
 ```
 
+## Links
+
+- [iPhone data protection in depth](http://esec-lab.sogeti.com/static/publications/11-hitbamsterdam-iphonedataprotection.pdf)
+- [A (not-so-quick) Primer on iOS Encryption](https://darthnull.org/media/presentations/2016-BSidesROC-iOSCrypto.pdf)
+
